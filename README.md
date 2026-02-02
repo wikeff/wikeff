@@ -1,3 +1,4 @@
+```bash
 root@hiccup:~# whoami
 Atualmente trabalho como **Analista de Redes**, com experiência em infraestrutura, redes e troubleshooting.  
 Sou apaixonado por tecnologia, especialmente por entender **como as coisas funcionam — e como podem falhar**.
@@ -16,3 +17,4 @@ root@hiccup:~# goals
 Migrar cada vez mais para a área de **Segurança da Informação**, com foco em **Red Team / Pentest**, unindo minha base sólida em redes com segurança ofensiva.
 
 root@hiccup:~# exit
+```
