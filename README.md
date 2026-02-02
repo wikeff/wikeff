@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Wikeff
 
-<!--
-**wikeff/wikeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Quem eu sou?
+Atualmente trabalho como **Analista de Redes**, com experiência em infraestrutura, redes e troubleshooting.  
+Sou apaixonado por tecnologia, especialmente por entender **como as coisas funcionam — e como podem falhar**.
 
-Here are some ideas to get you started:
+## 🔐 O que estou estudando?
+No momento estou focado em **Segurança Ofensiva**, estudando técnicas de:
+- Pentest
+- Enumeração e exploração de vulnerabilidades
+- Redes e protocolos sob a ótica de ataque
+- Ferramentas e metodologias ofensivas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Próximo objetivo:**  
+Obter a certificação **DCPT (Desec Certified Penetration Tester)**.
+
+## 🚀 Objetivo
+Migrar cada vez mais para a área de **Segurança da Informação**, com foco em **Red Team / Pentest**, unindo minha base sólida em redes com segurança ofensiva.
+
