@@ -10,7 +10,7 @@ No momento estou focado em **Segurança Ofensiva**, estudando técnicas de:
 - Ferramentas e metodologias ofensivas
 
 *root@hiccup:~# next*  
-Certificação **DCPT (Desec Certified Penetration Tester)**;
+Certificação **DCPT (Desec Certified Penetration Tester)**;  
 Cerfiticação **CWHI (Crowsec Web Hacking Initial)**.
 
 *root@hiccup:~# goals*  
