@@ -1,5 +1,5 @@
 *root@hiccup:~# whoami*  
-Atualmente trabalho como **Analista de Redes**, com experiência em infraestrutura, redes e troubleshooting.  
+Atualmente trabalho como **Analista de Redes** e **Gestor de Segurança da Informação**, com experiência em infraestrutura, redes e troubleshooting.  
 Sou apaixonado por tecnologia, especialmente por entender **como as coisas funcionam — e como podem falhar**.
 
 *root@hiccup:~# studying*  
