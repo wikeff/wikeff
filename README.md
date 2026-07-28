@@ -1,20 +1,18 @@
-*root@hiccup:~# whoami*  
-Atualmente trabalho como **Analista de Redes** e **Gestor de Segurança da Informação**, com experiência em infraestrutura, redes e troubleshooting.  
-Sou apaixonado por tecnologia, especialmente por entender **como as coisas funcionam — e como podem falhar**.
+```console
+wikeff@hacking:~$ whoami
 
-*root@hiccup:~# studying*  
-No momento estou focado em **Segurança Ofensiva**, estudando técnicas de:
-- Pentest
-- Enumeração e exploração de vulnerabilidades
-- Redes e protocolos sob a ótica de ataque
-- Ferramentas e metodologias ofensivas
+Analista de Redes e Gestor de Segurança da Informação.
+Trabalho com firewalls FortiGate e Mikrotik. Infra em AWS e servidores Linux.
+Gosto de entender como as coisas funcionam — e, principalmente, como quebram.
 
-*root@hiccup:~# next*  
-Certificação **DCPT (Desec Certified Penetration Tester)**;  
-Cerfiticação **CWHI (Crowsec Web Hacking Initial)**.
+wikeff@hacking:~$ cat security.md
+[x] DESEC NPP ......... Novo Pentest Profissional
+[~] DESEC PEv1 ........ Pentest Experience v1
+[ ] DESEC PEv2 ........ Pentest Experience v2
+[ ] Cert DCPT ......... Desec Certified Penetration Tester
+[ ] Cert CWHI ......... Crowsec Web Hacking Initial
 
-*root@hiccup:~# goals*  
-Migrar cada vez mais para a área de **Segurança da Informação**, com foco em **Red Team / Pentest**, unindo minha base sólida em redes com segurança ofensiva.
-
-*root@hiccup:~# exit*
-
+wikeff@hacking:~$ ./contact.sh --email --linkedin
+```
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wikeff@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wikeff)
