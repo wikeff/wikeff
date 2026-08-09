@@ -2,8 +2,8 @@
 wikeff@hacking:~$ whoami
 
 Analista de Redes e Gestor de Segurança da Informação.
-Trabalho com firewalls FortiGate e Mikrotik. Infra em AWS e servidores Linux.
-Gosto de entender como as coisas funcionam — e, principalmente, como quebram.
+Trabalho com firewalls FortiGate e Mikrotik, infra em AWS e servidores Linux.
+Gosto de entender como as coisas funcionam e, principalmente, como quebram.
 
 wikeff@hacking:~$ cat security.md
 [x] DESEC NPP ......... Novo Pentest Profissional
